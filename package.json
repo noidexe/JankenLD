@@ -8,7 +8,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://bitbucket.org/noidexe/pichon.git"
+        "url": "https://github.com/noidexe/JankenLD.git"
     },
     "devDependencies": {
         "grunt": "~0.4.1",
