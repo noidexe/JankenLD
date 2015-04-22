@@ -1,0 +1,7 @@
+.idea
+game
+node_modules
+
+*.sublime-workspace
+*.db
+/.project
